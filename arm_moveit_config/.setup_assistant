@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: arm
+    relative_path: urdf/urdf7.0.urdf
+  SRDF:
+    relative_path: config/urdf7.0.srdf
+  CONFIG:
+    author_name: zhang
+    author_email: 1052164793@qq.com
+    generated_timestamp: 1534230342
